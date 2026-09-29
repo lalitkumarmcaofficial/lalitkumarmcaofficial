@@ -94,7 +94,7 @@ I use GitHub to document my learning, publish projects, experiment with new tech
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=lalitkumarmcaofficial&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 ---
 
