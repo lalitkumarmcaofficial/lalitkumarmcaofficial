@@ -92,6 +92,12 @@ I use GitHub to document my learning, publish projects, experiment with new tech
 
 ---
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+---
+
 ## 🎯 Career Goal
 
 My long-term goal is to build a strong career in **IT, Full-Stack Development, and Cyber Security**, combining my academic background with practical development and problem-solving skills.
@@ -100,11 +106,9 @@ My long-term goal is to build a strong career in **IT, Full-Stack Development, a
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, cybersecurity professionals, and technology enthusiasts.
-
-- 💼 LinkedIn: [https://www.linkedin.com/in/lalitkumarmcaofficial/]
-- 🌐 Portfolio: [https://lalitkumarmcaofficial-portfolio.netlify.app/]
-- 📧 Email: [lalitkumarmcaofficial@gmail.com]
+- 💼 LinkedIn: [Add your LinkedIn URL]
+- 🌐 Portfolio: [Add your Portfolio URL]
+- 📧 Email: [Add your Professional Email]
 
 ---
 
