@@ -106,9 +106,9 @@ My long-term goal is to build a strong career in **IT, Full-Stack Development, a
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 🌐 Portfolio: [Add your Portfolio URL]
-- 📧 Email: [Add your Professional Email]
+- 💼 LinkedIn: [https://www.linkedin.com/in/lalitkumarmcaofficial/]
+- 🌐 Portfolio: [https://lalitkumarmcaofficial-portfolio.netlify.app/]
+- 📧 Email: [lalitkumarmcaofficial@gmail.com]
 
 ---
 
